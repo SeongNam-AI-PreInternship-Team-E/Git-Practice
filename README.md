@@ -1,6 +1,9 @@
 # Git-Practice
 
-가나다라마바사
+second commit /*청환*/
+
+
+가나다라마바사 /*유신*/
 아자차카타파바
 
 
@@ -8,4 +11,5 @@
 로컬 저장소에 있던 내용  
 병합하기  
 git remote add upstream
+
 
